@@ -1,4 +1,3 @@
 .DS_Store
-*.backup
-*.bak
-zaqsa.zip
+node_modules/
+.env
